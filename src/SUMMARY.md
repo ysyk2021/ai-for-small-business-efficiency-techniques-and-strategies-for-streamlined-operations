@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [The importance of efficiency in small business operations](chapter-1-1.md)
-  - [Overview of the book's content](chapter-1-2.md)
 - [Chapter 1: Understanding AI in Small Business Operations](chapter-2.md)
   - [Definition of AI-powered small business operations](chapter-2-1.md)
   - [Types of AI used for small business efficiency](chapter-2-2.md)
