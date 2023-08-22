@@ -1,5 +1,4 @@
-Overview of AI Applications for Workflow Automation in Small Businesses
-====================================================================================================================
+
 
 In this chapter, we will provide an overview of how small businesses can use AI for workflow automation. By automating workflows with AI, small businesses can reduce manual tasks and improve efficiency, leading to cost savings and increased productivity.
 

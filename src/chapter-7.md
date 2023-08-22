@@ -1,5 +1,4 @@
-Chapter 6: Using AI for Customer Relationship Management
-========================================================
+
 
 Overview of AI Applications for Customer Relationship Management (CRM) in Small Businesses
 ------------------------------------------------------------------------------------------

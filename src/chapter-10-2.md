@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-================================================================================================================================
+
 
 In this chapter, we will discuss the importance of ethics and governance in AI implementation for small businesses. As AI becomes increasingly integrated into business operations, it is critical that small businesses consider the ethical implications of their use of AI and develop governance frameworks to ensure responsible AI use.
 

@@ -1,5 +1,4 @@
-Overview of AI Applications for Customer Relationship Management (CRM) in Small Businesses
-====================================================================================================================================================
+
 
 In this chapter, we will provide an overview of AI applications for customer relationship management (CRM) in small businesses. These applications include lead scoring, sales forecasting, and customer segmentation.
 

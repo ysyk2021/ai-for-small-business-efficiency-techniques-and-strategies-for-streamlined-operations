@@ -1,5 +1,4 @@
-Types of AI used for small business efficiency
-========================================================================================================
+
 
 In this chapter, we will discuss the different types of AI that can be used to improve small business efficiency. By understanding the various types of AI and their applications, small businesses can better leverage AI to streamline their operations.
 
