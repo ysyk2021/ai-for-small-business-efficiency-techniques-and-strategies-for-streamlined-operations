@@ -1,5 +1,4 @@
 
-
 In this chapter, we will showcase case studies of successful AI implementations in workflow automation for small businesses. These examples highlight how small businesses have used AI to optimize their operations, reduce costs, and improve productivity.
 
 Case Study 1: HelloFresh

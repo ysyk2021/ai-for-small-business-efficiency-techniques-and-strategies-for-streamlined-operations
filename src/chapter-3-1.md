@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how small businesses can assess their operations needs and goals to determine whether implementing AI is the right choice. By evaluating their specific needs and goals, small businesses can make informed decisions about how best to leverage AI to streamline their operations.
 
 Evaluating Small Business Operations Needs
