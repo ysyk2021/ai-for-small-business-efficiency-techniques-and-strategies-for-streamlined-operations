@@ -9,3 +9,7 @@ Whether you are an entrepreneur starting a new business or a manager looking to 
 In the coming chapters, we will delve deeper into specific areas where AI can be applied to small businesses. We will provide examples of practical applications and highlight the benefits and challenges of each approach. By the end of this book, you will have a better understanding of how AI can be used to streamline your operations and drive your small business forward.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
