@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations for AI Implementation in Small Business Operations
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations that small businesses should take into account when implementing artificial intelligence (AI) technologies in their operations. While AI offers significant benefits for efficiency and productivity, it is important to ensure responsible and ethical use to protect customer privacy, mitigate biases, and maintain transparency and accountability.
 
